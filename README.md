@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there !raaj this side:
 First Year Student at MU<br>currently build an linux based OS<br>
 
 
