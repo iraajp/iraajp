@@ -3,7 +3,7 @@
 ### I am a first year student at KC College Of Engineering,currently pursuing my Bachelors of Engineering in Computer Engineering .
 ### -loves to travel
 ### =loves to code
-## ≡Learns alot,Builds a lot
+## ≡Learns a lot,Builds a lot
 
 
 
