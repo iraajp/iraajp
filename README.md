@@ -1,5 +1,10 @@
-# Hi there !raaj this side:
-First Year Student at MU<br>currently build an linux based OS<br>
+# Hi there !
+## Raaj this side!
+### I am a first year student at KC College Of Engineering,currently pursuing my Bachelors of Engineering in Computer Engineering .
+### -loves to travel
+### =loves to code
+## ≡Learns alot,Builds a lot
+
 
 
 ## 🌐 Socials:
