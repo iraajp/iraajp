@@ -49,12 +49,6 @@ const raaj: Developer = {
     "System Design",
     "Community Building",
   ],
-  currentlyLearning: [
-    "Advanced React Patterns",
-    "Deep Learning",
-    "Microservices Architecture",
-    "Large Language Models",
-  ],
 };
 ```
 
