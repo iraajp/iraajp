@@ -28,14 +28,14 @@ const raaj: Developer = {
   name: "Raaj Patkar",
   roles: [
     "Campus Ambassador @E-cell IITB",
-    "Founder @FocuzDrn",
+    "Founder @focuzdrvn",
     "AI Developer",
   ],
   location: "Thane, Maharashtra, India",
   education: "Computer Engineering @KCCEMSR",
   ventures: [
     {
-      name: "FocuzDrn",
+      name: "focuzdrvn",
       description: "A thriving community of unapologetic hustlers",
     },
     {
@@ -106,11 +106,11 @@ const raaj: Developer = {
 <tr>
 <td width="50%" align="center">
 
-#### FocuzDrn Community
+#### focuzdrvn Community
 
 A vibrant community of unapologetic hustlers focused on personal and professional growth. Join us in our journey of continuous improvement and mutual support.
 
-[Join FocuzDrn →](https://chat.whatsapp.com/GfbOZjY41H5BIBeduVmSax?mode=ems_copy_c)
+[Join focuzdrvn →](https://chat.whatsapp.com/GfbOZjY41H5BIBeduVmSax?mode=ems_copy_c)
 
 </td>
 <td width="50%" align="center">
@@ -136,7 +136,7 @@ Building the next generation AI assistant that understands and adapts to your ne
 ### 🔭 Working On
 
 - 🤖 Anya AI - Personal AI Assistant
-- 👥 Growing FocuzDrn Community
+- 👥 Growing focuzdrvn Community
 - 🎥 WebRTC-based streaming platform
 - 🌐 Full-stack AI applications
 
