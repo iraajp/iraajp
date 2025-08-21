@@ -20,8 +20,6 @@ interface Developer {
     name: string;
     description: string;
   }[];
-  interests: string[];
-  currentlyLearning: string[];
 }
 
 const raaj: Developer = {
