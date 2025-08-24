@@ -4,49 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Building+the+future%2C+one+line+at+a+time.;Campus+Ambassador+%40+E-cell+IITB;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
-
-## 🎯 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  roles: string[];
-  location: string;
-  education: string;
-  ventures: {
-    name: string;
-    description: string;
-  }[];
-}
-
-const raaj: Developer = {
-  name: "Raaj Patkar",
-  roles: [
-    "Campus Ambassador @E-cell IITB",
-    "Founder @focuzdrvn",
-    "AI Developer",
-  ],
-  location: "Thane, Maharashtra, India",
-  education: "Computer Engineering @KCCEMSR",
-  ventures: [
-    {
-      name: "focuzdrvn",
-      description: "A thriving community of unapologetic hustlers",
-    },
-    {
-      name: "Anya AI",
-      description: "Building a Jarvis-like AI assistant",
-    },
-  ],
-  interests: [
-    "Machine Learning",
-    "Full-Stack Development",
-    "System Design",
-    "Community Building",
-  ],
-};
-```
-
 ## 💻 Tech Stack
 
 <div align="center">
