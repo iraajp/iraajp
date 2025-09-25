@@ -35,6 +35,8 @@
 
 </div>
 
+## Dev card
+<a href="https://app.daily.dev/raajpatkar"><img src="https://api.daily.dev/devcards/v2/9Ygu5cGfc9d0kZLg9lsFW.png?r=ewa&type=wide" width="652" alt="Raaj Patkar's Dev Card"/></a>
 ## 📈 GitHub Stats
 
 <div align="center">
