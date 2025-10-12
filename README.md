@@ -1,7 +1,7 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Raaj Patkar
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Building+the+future%2C+one+line+at+a+time.;Campus+Ambassador+%40+E-cell+IITB;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins-Black&weight=100&size=31&duration=2000&pause=2000&color=F7EA23&center=true&vCenter=true&width=456&height=57&lines=%3Ccoder%3E;Focuzdrvn;AI+Engineer">
 </div>
 
 ## 💻 Tech Stack
