@@ -41,16 +41,8 @@
 
 </div>
 
-###### Dev card
 
-<div align="center">
-  <img src="https://api.daily.dev/devcards/v2/9Ygu5cGfc9d0kZLg9lsFW.png?r=ewa&type=wide" width="652" alt="Raaj Patkar's Dev Card"/>
-</div>
-###### 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iraajp&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iraajp&theme=tokyo-night&hide_border=true" width="100%"/>
