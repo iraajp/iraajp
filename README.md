@@ -1,5 +1,5 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins-Black&weight=100&size=31&duration=2000&pause=2000&color=F7EA23&center=true&vCenter=true&width=456&height=57&lines=%3Ccoder%3E;Focuzdrvn;AI+Engineer">
