@@ -1,1 +1,1 @@
-Hi! I am [raaj](https://raajpatkar.me). I am student at [KCCEMSR](https://www.kccemsr.edu.in/) .I love to Code and learning how to scale neural nets.
+Hi! I am [Raaj](https://raajpatkar.me). I am a CS Student .I am obsessed with Coding and learning how to scale neural nets.
